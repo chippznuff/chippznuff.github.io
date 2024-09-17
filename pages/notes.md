@@ -5,4 +5,4 @@ feedformat: card
 title: Digital Garden
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+hi i think this works. i'm not sure how to make it look at a subfolder [[apr-may reviews]] just doing links to test

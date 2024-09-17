@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "2dfd419e2269b3ba",
+    "id": "bffdb3838ec1e81a",
     "type": "split",
     "children": [
       {
-        "id": "430bf2798435b401",
+        "id": "2767c1d541af423c",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c51f9132c7107b",
+            "id": "a08e33bef190dcc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/{{date}}.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5177b0c82325fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-17-testing 'post'.md",
+                "file": "pages/notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2e6dd8c2e2665089",
+    "id": "f042f3e2677ed95a",
     "type": "split",
     "children": [
       {
-        "id": "a90d942db226fd73",
+        "id": "2b093f961b44566d",
         "type": "tabs",
         "children": [
           {
-            "id": "fde8ab6701d2ff85",
+            "id": "05bd4ea96c582444",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "bd94eeada9d3783f",
+            "id": "e6cf6ce22558d150",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "6d3034319bfcc702",
+            "id": "f6a4600a2c5feb4c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "cd27889f50cf8ff9",
+    "id": "706fbcbddc45729c",
     "type": "split",
     "children": [
       {
-        "id": "858a41f24c1d308f",
+        "id": "ad5a5a317e992f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "d9902c3648792a07",
+            "id": "7b40b6cbf3ed9217",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-17-testing 'post'.md",
+                "file": "pages/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "d4232041f2ff87a7",
+            "id": "3425fafd0a735a22",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-17-testing 'post'.md",
+                "file": "pages/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9b368ac2e10d7ea6",
+            "id": "79dab9fb61ace4c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "bfadcbb3686950ed",
+            "id": "fd51070f0aebced2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-17-testing 'post'.md"
+                "file": "pages/notes.md"
               }
             }
           }
@@ -159,16 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5177b0c82325fb3",
+  "active": "a08e33bef190dcc5",
   "lastOpenFiles": [
-    "template/{{date}}.md",
-    "2024-09-17-testing 'post'.md",
-    "Public/this is how we lose the time war.md",
-    "Public/apr-may reviews.md",
-    "Public/sara library archive post.md",
-    "Public/book's july.md",
-    "Public/book's june.md",
-    "Pasted image 20240917183808.png",
-    "template"
+    "pages/posts.md",
+    "pages/notes.md",
+    "pages/lists.md",
+    "pages/index.md",
+    "_posts/2024-09-17-testing 'post'.md"
   ]
 }
