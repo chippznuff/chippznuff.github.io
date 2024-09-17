@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/sara library archive post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "141579640a707995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/sara library archive post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d57f43aa2759376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/sara library archive post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ade6961021e1aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/sara library archive post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0290f88f722b54ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/sara library archive post.md",
+                "file": "template/{{date}}.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/sara library archive post.md",
+                "file": "template/{{date}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/sara library archive post.md",
+                "file": "template/{{date}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/sara library archive post.md"
+                "file": "template/{{date}}.md"
               }
             }
           }
@@ -195,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0290f88f722b54ef",
+  "active": "f4c51f9132c7107b",
   "lastOpenFiles": [
-    "Public/book's july.md",
-    "Public/sara library archive post.md",
-    "Public/book's june.md",
-    "Public/apr-may reviews.md",
     "Public/this is how we lose the time war.md",
+    "Public/apr-may reviews.md",
+    "Untitled.md",
+    "Public/sara library archive post.md",
+    "Public/book's july.md",
+    "Public/book's june.md",
     "Pasted image 20240917183808.png",
     "template/{{date}}.md",
     "template"
