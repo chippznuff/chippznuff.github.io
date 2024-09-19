@@ -2,7 +2,7 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: Notes
 ---
 
-hi i think this works. i'm not sure how to make it look at a subfolder [[apr-may reviews]] just doing links to test
+hi this is all my recent notes. these are different to <a href="https://chippznuff.github.io/posts">Posts</a> in some way, but i'm not sure how yet.

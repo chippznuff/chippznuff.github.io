@@ -11,7 +11,7 @@ book's july ^_^
 
 #### manhunt, by gretchen felkner-martin
 
-_transgender splatterpunk action horror_
+_transgender splatterpunk action horror_ 
 
 Been meaning to read this for a while. Had fun with it - the rapid pace, the action, the nasty gore - despite the, well, everything, you know. The violent (in the cultural, societal sense) and violent (in the death squads sense) transphobia. Not an easy read by any means. Deeply unpleasant but cathartic. And it is an inherently funny premise, I think. To take these ridiculous terf beliefs and twist them into exaggerated mockery.  
 That being said!!! I think Ms Felkner-Martin needs to log off! The recurring bits of Online Discourse that pop up are really grating and pulled me fully out. Look, I get it. She's illustrating how useless this infighting is, these arguments are in the face of ~real problems~. But you HAVE to log off and walk away. Tenderqueers aren't real and they can't hurt you. Snidely, briefly regurgitating annoying public discourse... there's just little on offer in comparison to the anti terf rhetoric... it comes off way more halfassed whinging about Kids These Days than anything else.  

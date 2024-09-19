@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/notes.md",
+                "file": "_posts/2024-09-17-testing 'post'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae10a8a1c605559a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-09-18-Books-August.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe1f6e8e041988b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/this is how we lose the time war.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6eb376848a46294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/To read list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ocs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/notes.md",
+                "file": "_notes/To read list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/notes.md",
+                "file": "_notes/To read list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/notes.md"
+                "file": "_notes/To read list.md"
               }
             }
           }
@@ -146,12 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08e33bef190dcc5",
+  "active": "a6eb376848a46294",
   "lastOpenFiles": [
-    "pages/posts.md",
+    "_notes/book's july.md",
+    "_notes/To read list.md",
+    "_notes/apr-may reviews.md",
+    "_notes/this is how we lose the time war.md",
+    "_notes/sara library archive post.md",
+    "_notes/Credits.md",
+    "_notes/book's june.md",
+    "_posts/2024-09-18-Books-August.md",
+    "_posts/Private/2024-09-19-Books-September.md",
+    "_posts/Private/2024-09-19-books september.md",
+    "_posts/template/{{date}}.md",
+    "_posts/2024-09-17-testing 'post'.md",
     "pages/notes.md",
+    "pages/posts.md",
     "pages/lists.md",
-    "pages/index.md",
-    "_posts/2024-09-17-testing 'post'.md"
+    "pages/index.md"
   ]
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-17-testing 'post'.md",
+                "file": "2024-09-18-Books-August.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-17-testing 'post'.md",
+                "file": "2024-09-18-Books-August.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-17-testing 'post'.md",
+                "file": "2024-09-18-Books-August.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-17-testing 'post'.md"
+                "file": "2024-09-18-Books-August.md"
               }
             }
           }
@@ -161,8 +161,13 @@
   },
   "active": "c5177b0c82325fb3",
   "lastOpenFiles": [
-    "template/{{date}}.md",
+    "Private/2024-09-19-books september.md",
+    "Private/2024-09-19-Books-September.md",
+    "2024-09-19-Books-September.md",
+    "2024-09-19.md",
+    "2024-09-18-Books-August.md",
     "2024-09-17-testing 'post'.md",
+    "template/{{date}}.md",
     "Public/this is how we lose the time war.md",
     "Public/apr-may reviews.md",
     "Public/sara library archive post.md",
