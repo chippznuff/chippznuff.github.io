@@ -1,7 +1,7 @@
 ---
 title: this is how we lose the time war
 feed: show
-date: 2024-09-17
+date: 2024-02-09
 ---
 subsegment of [[sara library archive post]]
 

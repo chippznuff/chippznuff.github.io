@@ -1,6 +1,7 @@
 ---
 layout: Post
 permalink: /posts
-title: All Posts
+title: Posts
 ---
-how on earth do i put things into /posts. [[2024-09-17-testing 'post']]
+
+These are different to notes in some way... chronological order...?

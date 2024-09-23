@@ -19,9 +19,9 @@ been reading carrie. tallarico's lawyers will be in touch
 
 19/02/24 - [[this is how we lose the time war]]
 
-11/04/24 - [[apr-may reviews]] (before move to monthly)
+11/04/24 - [[2024-04-11 apr-may reviews]] (before move to monthly)
 
-04/08/24 - [[book's june]]
+04/08/24 - [[2024-08-04 book's june]]
 
 11/08/24 - book's july
 

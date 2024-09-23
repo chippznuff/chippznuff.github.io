@@ -1,7 +1,7 @@
 ---
-title: book's july
+title: 2024-08-24 book's july
 feed: show
-date: 2024-09-17
+date: 2024-08-24
 ---
 11/08/24
 

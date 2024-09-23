@@ -3,7 +3,7 @@ title: 2024-09-18-Books-August
 feed: show
 date: 2024-09-18
 ---
-prev: [[book's july]]
+prev: [[2024-08-24 book's july]]
 
 This one gets to be a Post for now, since it's NEW!
 I was drafting it before Cohost announced its Demise... 

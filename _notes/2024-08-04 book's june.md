@@ -1,7 +1,7 @@
 ---
-title: book's june
+title: 2024-08-04 book's june
 feed: show
-date: 2024-09-17
+date: 2024-08-04
 ---
 04/08/24 [[sara library archive post]]
 
